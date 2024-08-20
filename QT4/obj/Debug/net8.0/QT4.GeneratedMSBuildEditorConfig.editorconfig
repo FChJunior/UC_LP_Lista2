@@ -1,0 +1,13 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = QT4
+build_property.ProjectDir = D:\Documentos\Técnico em Programação de Jogos Digitais\Material das UCs\2 - Módulo Integrador Introdutório\4 - Lógica de Programação\2 - Listas de Exercícios (Práticos)\Respostas\Lista 2\QT4\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
