@@ -9,8 +9,8 @@
 **Conteúdo:** Condicionais
 
 **Observações:**
-- Crie cada questão em uma pasta com o nome da questão. Ex.: Quest1;
-- Todas as Questões devem estar dentro de uma pasta com o nome da atividade. Ex.: Lista1
+- Crie cada questão em uma pasta com o nome da questão. Ex.: **Quest1**;
+- Todas as Questões devem estar dentro de uma pasta com o nome da atividade. Ex.:**Lista1**
 - Build cada código fonte e deixe o executável na pasta da atividade. Crie uma pasta com o nome `build`;
 - Crie um repositório público no GitHub e disponibilize o link para seu professor.
 - Use um cabeçalho em cada código fonte. Ex.:
